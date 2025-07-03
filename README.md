@@ -1,6 +1,6 @@
 # ⚽ Football Stars Photo Gallery
 
-This is my final project for the [Interactivity with JavaScript](https://www.coursera.org/learn/javascript-jquery-json). The goal of the project is to create an **interactive and accessible photo gallery** using JavaScript, HTML, and CSS — with support for both mouse and keyboard users.
+This is my final project for the [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/verify/G392MIRDZVST). The goal of the project is to create an **interactive and accessible photo gallery** using JavaScript, HTML, and CSS — with support for both mouse and keyboard users.
 
 ---
 
